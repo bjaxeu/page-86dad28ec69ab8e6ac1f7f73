@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7670e0766f1cf5fd22ffa5fe",
+  "owner": "bjaxeu",
+  "repo": "page-86dad28ec69ab8e6ac1f7f73",
+  "title": "HEYPIG",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "86dad28ec69ab8e6ac1f7f73",
+      "a": "HEYPIG",
+      "b": "2027最新官网",
+      "entity": "HEYPIG",
+      "brand": "HEYPIG",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c1811c5648c8f492c2c710c97f8b968552df8fc9df3f00c3a49ea480e96b1556",
+      "content": {
+        "primary_entity": "HEYPIG",
+        "keyword1": "HEYPIG",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 Windows、macOS、iOS、Android 与路由器上按设备类型选取对应客户端，再导入订阅地址即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据日常设备数量与流量需求挑选套餐，完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐即刻连接",
+          "AI_DESCRIPTION": "，围绕设备数量、月流量与订阅周期提供三档方案，从基础版到团队版覆盖个人、家庭与小型团队场景。客户端地址与订阅链接由程序统一填入，按客户端文档指引导入配置后即可连接节点。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三方面入手，快速判断适合自己的方案。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备、每月 100GB，适合手机加电脑的轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备、每月 300GB，含 IPLC 专线游戏加速与优先工单。",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备、每月 1000GB，可定制路由并配专属客户经理。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量与周期",
+          "AI_FEATURE_TITLE_3": "团队扩展",
+          "AI_GUIDE_INTRO": "三步完成从挑选到连接的过程，每步都可按客户端文档独立配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "HEYPIG 提供基础版、旗舰版与团队版三档订阅，按设备数量与每月流量区分。用户依客户端文档导入订阅即可连接节点，适合个人、家庭及小型团队按需选用。",
+          "AI_HERO_SUBTITLE": "三档订阅按设备与流量选",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付节省两个月费用",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备；旗舰版每月 300GB 支持 5 台设备；团队版每月 1000GB 支持 20 台设备，年付均为十个月价格。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按使用人数、月流量和是否需要专线，从三档方案中选出合适的一档。",
+          "AI_STEP_TEXT_2": "查看所选方案对应的设备数量与客户端适配要求，确认现有设备能正常运行。",
+          "AI_STEP_TEXT_3": "参照对应客户端的文档导入订阅地址与配置，即可连接节点开始使用。",
+          "AI_STEP_TITLE_1": "选择服务方案",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依文档配置订阅",
+          "AI_VISUAL_TITLE": "HEYPIG 多档订阅灵活选",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 到 3 台设备、每月 100GB 以内的轻度使用；旗舰版支持 5 台设备与 300GB 流量，适合多设备与流媒体需求；团队版面向 20 台设备、1000GB 的企业场景。",
+          "AI_FAQ_ANSWER_2": "支持主流桌面与移动客户端的订阅导入，不同客户端配置方式略有差异。具体操作可参考对应客户端的配置文档，按提示粘贴订阅链接即可。",
+          "AI_FAQ_ANSWER_3": "按年付费比按月付费节省约两个月费用，例如基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。长期使用选择年付更划算。",
+          "AI_FAQ_ANSWER_4": "套餐支持设备数量不同：基础版 3 台，旗舰版 5 台，团队版 20 台。可根据常用设备数量选择对应档位，超出时升级套餐即可。",
+          "AI_FAQ_ANSWER_5": "套餐之间可以升级，从基础版切换到旗舰版或团队版时，按新套餐计费规则补差价即可，具体以订阅页面显示的升级选项为准。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "HEYPIG 支持哪些客户端？",
+          "AI_FAQ_QUESTION_3": "按年付费比按月付费便宜多少？",
+          "AI_FAQ_QUESTION_4": "一个套餐最多可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_5": "可以从基础版升级到旗舰版吗？",
+          "AI_FAQ_TITLE": "关于 HEYPIG 套餐的常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pythonstar.cn",
+    "host": "pythonstar.cn"
+  },
+  "file_hashes": {
+    "index.html": "b102507648e61ac8f31af2d8ec5b2b1dbad319ebecbbaf72bbeb695f1f0b0a69",
+    "sitemap.xml": "08acdfcfe029d18910907a938a7e89657aae15862380d816e5d6be58c618b367",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b20c0c5012db2a43a4e91fae5e58df7ef70395e9b46bc3965491866dff704ee0",
+    "robots.txt": "0f294d7b380c3712fc774569a80fc302a6a98f79c696f1bd6a80720961628bfe",
+    "818035dde9a33aa5ad55c80ff2f07570.txt": "ddc571b1c9c4c1404d8dd6a8a44a4fec0cfed9425dff8f3bb7ef2d657e060622"
+  },
+  "revision": "65b1588b094872e380a96b3541104464f598e138bb95e4e35caef27be2f03dae"
+}
